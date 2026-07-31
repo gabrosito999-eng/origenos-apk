@@ -1,0 +1,7 @@
+BoxLayout:
+    orientation: 'vertical'
+    Label:
+        id: texto
+        text: "ORIGEN NX1"
+        font_size: 40
+        color: 0, 1, 0, 1

@@ -1,14 +1,11 @@
 [app]
-title = ORIGEN OS
-package.name = origenos
+title = 5Vpulse OS
+package.name = 5vpulse
 package.domain = org.origen
-source.dir =.
-source.include_exts = py,png,jpg,kv,atlas
-version = 0.1
+
 requirements = python3,kivy
-orientation = portrait
-fullscreen = 1
-android.api = 31
+android.api = 34
 android.minapi = 21
-android.archs = arm64-v8a
-android.permissions = VIBRATE
+android.sdk_path =
+android.ndk_path =
+android.accept_sdk_license = True

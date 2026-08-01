@@ -11,5 +11,3 @@ android.api = 34
 android.minapi = 21
 android.archs = arm64-v8a
 log_level = 2
-android.gradle_dependencies =
-android.build_tools = 34.0.0
